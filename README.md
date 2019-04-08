@@ -11,7 +11,7 @@ Training sessions will be held each Tuesday from 17:00-20:00 (April 9 - May 28)
 Date | Topic | Presenter
 ---------- | ---- | ----
 09/04/2019 | Cloud Concepts | Drazen Dodik
-16/04/2019 | Core Azure Services | TBD
+16/04/2019 | Core Azure Services | Denis Cepun
 23/04/2019 | Security, Privacy, Compliance and Trust | Denis Cepun
 30/04/2019 | Azure Pricing and Support | Drazen Dodik
 07/05/2019 | TBD | TBD
@@ -84,7 +84,7 @@ Date | Topic | Presenter
   - [Introduction to microservices architectures](https://docs.microsoft.com/en-us/azure/architecture/microservices/introduction)
   - [Five Things About Azure Functions](https://channel9.msdn.com/Shows/5-Things/Five-Things-About-Azure-Functions?term=serverless)
 
-## #3 Security, Privacy, Compliance and Trust
+## #3 Architecture, networking, security and governance
 
 ### Learning objectives #3
 
@@ -106,13 +106,3 @@ Date | Topic | Presenter
 - __Extra reading__
   - [Top 5 security items to consider before pushing to production](https://docs.microsoft.com/en-gb/learn/modules/top-5-security-items-to-consider/)
   - [Azure Management - Governance](https://docs.microsoft.com/en-us/azure/governance/)
-
-## #4 Azure Pricing and Support
-
-
-- Azure subscriptions
-- Planning and managing costs
-- Support options available with Azure
-- Service lifecycle in Azure
-- After completing this module, students will be able:
-- Understand pricing and support models available with Microsoft 
