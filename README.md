@@ -12,8 +12,8 @@ Date | Topic | Presenter
 ---------- | ---- | ----
 09/04/2019 | Cloud Concepts | Drazen Dodik
 16/04/2019 | Core Azure Services | Denis Cepun
-23/04/2019 | Security, Privacy, Compliance and Trust | Denis Cepun
-30/04/2019 | Azure Pricing and Support | Drazen Dodik
+23/04/2019 | Architecture, networking, security and governance | Denis Cepun
+30/04/2019 | ARM Templates, Azure Pipelines and Cognitive Services | Drazen Dodik
 07/05/2019 | TBD | TBD
 14/05/2019 | TBD | TBD
 21/05/2019 | TBD | TBD
