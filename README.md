@@ -34,7 +34,7 @@ Date | Topic | Presenter
 
 ### Materials #1
 
-- [Introduction to cloud computing](http://www.google.com) -presentation
+- [Introduction to cloud computing](https://github.com/DrazenDodik/theShorcut_AzureAcademy/blob/master/presentations/Session1__CloudComputing_TheShortcut.pptx) -presentation
 - **Complete during session**
   - Go to [http://azure.com/free](http://azure.com/free) to create your free account
     - You need a credit-card for validation purposes
@@ -65,7 +65,7 @@ Date | Topic | Presenter
 
 ### Materials #2
 
-- [Introduction to Azure architecture, service guarantees and core cloud services (compute and storage)](www.google.com)
+- [Introduction to Azure architecture, service guarantees and core cloud services (compute and storage)](https://github.com/DrazenDodik/theShorcut_AzureAcademy/blob/master/presentations/Session2_AvailabilityComputeStorage.pptx)-presentation
 
 - **Complete during the session**
   - [Azure Virtual Machine and Compute Lab](https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs?storyId=story://content-private/content/iai/azure100/azure100experience2/1_story_virtual_machines_compute)
@@ -94,7 +94,7 @@ Date | Topic | Presenter
 
 ### Materials #3
 
-- [Architecture, networking, security and governance overview](http://google.com)
+- [Architecture, networking, security and governance overview](https://github.com/DrazenDodik/theShorcut_AzureAcademy/blob/master/presentations/Session3_ArchitectureNetworkingSecurity.pptx)-presentation
 - __Complete during the session__
   - [Azure Networking Concepts hands-on lab](https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs?storyId=story://content-private/content/iai/azure100/azure100experience1/2_story_networking_concepts)
   - [Capture and view page load times in your Azure web app with Application Insights](https://docs.microsoft.com/en-gb/learn/modules/capture-page-load-times-application-insights/)
