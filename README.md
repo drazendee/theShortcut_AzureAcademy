@@ -95,14 +95,41 @@ Date | Topic | Presenter
 ### Materials #3
 
 - [Architecture, networking, security and governance overview](https://github.com/DrazenDodik/theShorcut_AzureAcademy/blob/master/presentations/Session3_ArchitectureNetworkingSecurity.pptx)-presentation
+
 - __Complete during the session__
   - [Azure Networking Concepts hands-on lab](https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs?storyId=story://content-private/content/iai/azure100/azure100experience1/2_story_networking_concepts)
   - [Capture and view page load times in your Azure web app with Application Insights](https://docs.microsoft.com/en-gb/learn/modules/capture-page-load-times-application-insights/)
+
 - __Continue__
   - [Azure networking options](https://docs.microsoft.com/en-gb/learn/modules/intro-to-azure-networking/index)
   - [Security, responsibility and trust in Azure](https://docs.microsoft.com/en-gb/learn/modules/intro-to-security-in-azure/index)
   - [Apply and monitor infrastructure standards with Azure Policy](https://docs.microsoft.com/en-gb/learn/modules/intro-to-governance/index)
   - [Manage secrets in your server apps with Azure Key Vault](https://docs.microsoft.com/en-gb/learn/modules/manage-secrets-with-azure-key-vault/)
+  - [Predict costs and optimize spending for Azure](https://docs.microsoft.com/en-gb/learn/modules/predict-costs-and-optimize-spending/)
+  - [Control and organize Azure resources with Azure Resource Manager](https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/)
+
 - __Extra reading__
   - [Top 5 security items to consider before pushing to production](https://docs.microsoft.com/en-gb/learn/modules/top-5-security-items-to-consider/)
   - [Azure Management - Governance](https://docs.microsoft.com/en-us/azure/governance/)
+
+## #4 ARM Templates, Azure Pipelines and Cognitive Services
+
+### Learning objectives #4
+
+- Define and setup Azure Resource Manager Templates
+- Setup a simple CD/CI pipeline with Azure Pipelines
+- Use Cognitive Services APIs
+
+### Materials #4
+
+- [ARM Templates, Azure Pipelines and Cognitive Services overview](https://github.com/DrazenDodik/theShorcut_AzureAcademy/blob/master/presentations/Session4_ARMTemplatesPipelinesCognitive.pptx)-presentation
+
+- __Complete during the session__
+  - Complete the [Build Azure Resource Manager templates](https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/)
+  - Start on the [Identify faces and expressions by using the Computer Vision API in Azure Cognitive Services](https://docs.microsoft.com/en-us/learn/modules/identify-faces-with-computer-vision/)
+
+- __Continue__
+  - Read through [What is Azure Pipelines?](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/what-is-azure-pipelines?toc=/azure/devops/pipelines/toc.json&bc=/azure/devops/boards/pipelines/breadcrumb/toc.json&view=azure-devops)
+  - [Create your first pipeline](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started-yaml?view=azure-devops) with a sample repo
+  - [Load test Azure web apps by using Azure DevOps](https://docs.microsoft.com/en-us/learn/modules/load-test-web-app-azure-devops/)
+  - Complete the Azure Fundamentals practise exam from Future-Proof.net
