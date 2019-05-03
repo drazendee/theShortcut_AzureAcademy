@@ -15,11 +15,7 @@ You'll now be presented with additional options for support, buying a certificat
 
 These options are offered, as the portal is originally designed for partner companies and those additional services might be relevant for them. In our case, we will just enroll to the free course.
 
-<<<<<<< HEAD
 ![Add to cart](images/addToCart.png)
-=======
-![Add Azure Fundamentals course to cart](images/addtoCart.png)
->>>>>>> 89c7260be84a584102cf7e8ea21b7a2b9e4c09ae
 
 **Click add to cart**
 
