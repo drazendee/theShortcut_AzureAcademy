@@ -132,6 +132,8 @@ Date | Topic | Presenter
   - Read through [What is Azure Pipelines?](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/what-is-azure-pipelines?toc=/azure/devops/pipelines/toc.json&bc=/azure/devops/boards/pipelines/breadcrumb/toc.json&view=azure-devops)
   - Complete [Microsoft Azure IoT strategy and solution](https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/)
   - Read [What is Azure Internet of Things (IoT)?](https://docs.microsoft.com/en-us/azure/iot-fundamentals/iot-introduction)
+  - Complete [Microsoft Azure Artificial Intelligence (AI) strategy and solutions](https://docs.microsoft.com/en-us/learn/modules/azure-artificial-intelligence/)
+  - [Compare Machine Learning products at Microsoft](https://github.com/DrazenDodik/theShortcut_AzureAcademy)
 
 - __Read more__
   - [Create your first pipeline](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started-yaml?view=azure-devops) with a sample repo
