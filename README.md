@@ -13,10 +13,10 @@ Date | Topic | Presenter
 09/04/2019 | Cloud Concepts | Drazen Dodik
 16/04/2019 | Core Azure Services | Denis Cepun
 23/04/2019 | Architecture, networking, security and governance | Denis Cepun
-30/04/2019 | ARM Templates, Azure Pipelines and Cognitive Services | Drazen Dodik
-07/05/2019 | TBD | TBD
-14/05/2019 | TBD | TBD
-21/05/2019 | TBD | TBD
+30/04/2019 | Vappu eve |
+07/05/2019 | ARM Templates, Azure Pipelines and Cognitive Services | Drazen Dodik
+14/05/2019 | Prep for exam |
+21/05/2019 | Prep for exam |
 
 ## Learning portals
 
@@ -122,7 +122,7 @@ Date | Topic | Presenter
 
 ### Materials #4
 
-- [ARM Templates, Azure Pipelines and Cognitive Services overview](https://github.com/DrazenDodik/theShorcut_AzureAcademy/blob/master/presentations/Session4_ARMTemplatesPipelinesCognitive.pptx)-presentation
+- [ARM Templates, Azure Pipelines, IoT and Cognitive Services overview](https://github.com/DrazenDodik/theShorcut_AzureAcademy/blob/master/presentations/Session4_ARMTemplatesPipelinesCognitive.pptx)-presentation
 
 - __Complete during the session__
   - Complete the [Build Azure Resource Manager templates](https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/)
@@ -130,6 +130,11 @@ Date | Topic | Presenter
 
 - __Continue__
   - Read through [What is Azure Pipelines?](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/what-is-azure-pipelines?toc=/azure/devops/pipelines/toc.json&bc=/azure/devops/boards/pipelines/breadcrumb/toc.json&view=azure-devops)
+  - Complete [Microsoft Azure IoT strategy and solution](https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/)
+  - Read [What is Azure Internet of Things (IoT)?](https://docs.microsoft.com/en-us/azure/iot-fundamentals/iot-introduction)
+
+- __Read more__
   - [Create your first pipeline](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started-yaml?view=azure-devops) with a sample repo
   - [Load test Azure web apps by using Azure DevOps](https://docs.microsoft.com/en-us/learn/modules/load-test-web-app-azure-devops/)
+  - [Quickstart: Send telemetry from a device to an IoT hub and read it with a back-end application (Node.js)](https://docs.microsoft.com/en-us/azure/iot-hub/quickstart-send-telemetry-node)
   - Complete the Azure Fundamentals practise exam from Future-Proof.net
