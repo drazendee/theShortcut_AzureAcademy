@@ -1,4 +1,4 @@
-# The Shorcut - Azure Fundamentals learning path
+# The Shortcut - Azure Fundamentals learning path
 
 The Shortcut in collaboration with Microsoft present the Azure Certification Course.
 
