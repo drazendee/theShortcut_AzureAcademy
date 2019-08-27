@@ -24,7 +24,7 @@ Date | Topic | Presenter
 03/10/2019 | Azure Architecture (whiteboarding) | TBD
 08/10/2019 | Office Hours (Book a slot from the coach) | TBD
 10/10/2019 | Office Hours (Book a slot from the coach) | TBD
-14/10/2019 | Certification week (everyone will book their own slot) | The Shorcut staff
+14/10/2019 | Certification week (everyone will book their own slot) | The Shorcut team
 
 ## Learning portals
 
