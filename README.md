@@ -11,11 +11,11 @@ Training sessions will be held each Tuesday from 17:00-18:30 and on Thursdays we
 Date | Topic | Presenter
 ---------- | ---- | ----
 27/08/2019 | Cloud Concepts | Drazen Dodik, Sr. Azure Developer PMM at Microsoft
-29/08/2019 | Cloud Adoption Framework and "Hello World" | Drazen Dodik, Sr. Azure Developer PMM at Microsoft
+29/08/2019 | Cloud Adoption Framework and "Hello World" | Drazen
 03/09/2019 | Core Azure Services | Jani Nevalainen, Lead Architect, Microsoft Technologies at Tieto.
-05/09/2019 | Hands-on with Core Azure Services | Drazen Dodik, Sr. Azure Developer PMM at Microsoft
+05/09/2019 | Hands-on with Core Azure Services | Drazen
 10/09/2019 | Security, Privacy and Trust | Karl Ots, Chief Consulting Officer at Zure
-12/09/2019 | Hands-on with Azure | Drazen Dodik, Sr. Azure Developer PMM at Microsoft
+12/09/2019 | Hands-on with Azure | Drazen
 17/09/2019 | Pricing and support | TBA
 19/09/2019 | Hands-on with Azure | TBA
 24/09/2019 | What to expect and how to prepare for a certification? | TBA
