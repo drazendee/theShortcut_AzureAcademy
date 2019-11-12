@@ -10,21 +10,19 @@ Training sessions will be held each Tuesday from 17:00-18:30 and on Thursdays we
 
 Date | Topic | Presenter
 ---------- | ---- | ----
-27/08/2019 | Cloud Concepts | Drazen Dodik, Sr. Azure Developer PMM at Microsoft
-29/08/2019 | Cloud Adoption Framework and "Hello World" | Drazen
-03/09/2019 | Core Azure Services | Jani Nevalainen, Lead Architect, Microsoft Technologies at Tieto.
-05/09/2019 | Hands-on with Core Azure Services | Drazen
-10/09/2019 | Security, Privacy and Trust | Karl Ots, Chief Consulting Officer at Zure
-12/09/2019 | Hands-on with Azure | Drazen
-17/09/2019 | Pricing and support | TBA
-19/09/2019 | Hands-on with Azure | TBA
-24/09/2019 | What to expect and how to prepare for a certification? | TBA
-26/09/2019 | Self-paced with hands-on with Azure | The Shortcut team
-01/10/2019 | Azure Architecture (whiteboarding) | TBD
-03/10/2019 | Azure Architecture (whiteboarding) | TBD
-08/10/2019 | Office Hours (Book a slot from the coach) | TBD
-10/10/2019 | Office Hours (Book a slot from the coach) | TBD
-14/10/2019 | Certification week (everyone will book their own slot) | The Shorcut team
+5/11/2019 | Cloud Concepts | Lukas Lundin, Azure Specialist at Microsoft
+7/11/2019 | Azure Subscription Activation | The Shortcut Team
+12/11/2019 | Core Azure Services | Drazen Dodik, Sr. Azure Developer PMM at Microsoft
+14/11/2019 | Cloud Computing Club (optional)
+19/11/2019 | Security, Privacy and Trust | TBD
+21/11/2019 | Cloud Computing Club (optional)
+26/11/2019 | Pricing and support | TBA
+28/11/2019 | Cloud Computing Club (optional)
+3/12/2019 | What to expect and how to prepare for a certification? | TBD
+5/12/2019 | Cloud Computing Club (optional)
+10/12/2019 | Office Hours Week | Drazen Dodik
+12/12/2019 | Certification week (everyone will book their own slot) | The Shorcut team
+17/12/2019 | Certification week (everyone will book their own slot) | The Shorcut team
 
 ## Learning portals
 
